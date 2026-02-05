@@ -1,5 +1,6 @@
 # timew-fish-plugin
-fish plugin with timewarrior completions and functions
+
+Fish plugin with timewarrior completions and functions.
 
 ## Shell completions
 
@@ -15,3 +16,14 @@ Issues and pull-requests regarding this, should go there.
 
 No custom functions (yet).
 
+## Installation
+
+Install with [Fisher](https://github.com/jorgebucaran/fisher "fish plugin manager"):
+
+```fish
+fisher install peterdb/timew-fish-plugin
+```
+
+## LICENSE
+
+[MIT](LICENSE)
